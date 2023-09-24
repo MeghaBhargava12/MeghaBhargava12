@@ -1,4 +1,13 @@
-### Hi there 👋
+
+<div align="center">
+ <div> <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width='200'/></div>
+  <div><a href = "mailto: megha.bhargav2012@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%; height: 20px;"></a></div>
+</div>
+<h2 id="user-content--socials" dir="auto"><a class="heading-link" href="#-socials">🌐 Socials:</a></h2>
+<p dir="auto"><a href="https://instagram.com/_.megha._.bhargava._?igshid=MzMyNGUyNmU2YQ==" rel="nofollow"><img src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" style="max-width: 100%; height: 20px;"></a> <a href="https://www.linkedin.com/in/megha-bhargava-b42990188/" rel="nofollow"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%; height: 20px;"></a>
+<a href="https://www.facebook.com/megha.bhargav?mibextid=ZbWKwL" rel="nofollow"><img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style=" max-width: 100%; height: 20px;"></a></p>
+
+<h2 id="user-content--tech-stack" dir="auto"><a class="heading-link" href="#-tech-stack">💻 Tech Stack:</a></h2>
 
 <!--
 **MeghaBhargava12/MeghaBhargava12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
